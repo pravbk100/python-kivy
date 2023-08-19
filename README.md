@@ -1,6 +1,12 @@
 # Spell-e game built with python-kivy
 
-![Screenshot](App Screenshot.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="App Screenshot.png">
+</picture>
+
+
 Spell-e. The small visual game created using kivy python.
 The directory contains all the files.
 decompress and place all the files in one folder as shown in the "file structure.png".
