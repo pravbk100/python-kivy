@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="screenshot" src="main/App Screenshot.png">
+ <img alt="screenshot" src="https://github.com/pravbk100/python-kivy/blob/main/App%20Screenshot.png">
 </picture>
 
 
